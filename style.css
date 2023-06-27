@@ -1,0 +1,12 @@
+/* Cores */
+@import url("./css/cores/cores.css");
+
+/* Site */
+@import url("./css/header/header.css");
+@import url("./css/profile/profile.css");
+@import url("./css/about/about.css");
+@import url("./css/habilidades/habilidades.css");
+@import url("./css/formacao/formacao.css");
+@import url("./css/experiencia/experiencia.css");
+@import url("./css/form/formulario.css");
+@import url("./css/footer/footer.css");

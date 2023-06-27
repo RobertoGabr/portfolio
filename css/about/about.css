@@ -1,0 +1,29 @@
+.aboutBg {
+  background-color: var(--cor-de-fundo2);
+}
+
+.about {
+  padding-top: 4rem;
+  padding-bottom: 3.8rem;
+}
+
+.aboutTitulo {
+  font-size: 2rem;
+  line-height: 1.187;
+  padding-bottom: 1rem;
+}
+
+.aboutDescricao {
+  font-size: 1rem;
+  line-height: 1.187;
+  max-width: 77ch;
+  padding-bottom: 1rem;
+}
+
+/*Tablet*/
+@media (max-width: 768px) {
+}
+
+/*Mobile*/
+@media (max-width: 425px) {
+}

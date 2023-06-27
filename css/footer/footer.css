@@ -1,0 +1,13 @@
+.footerBg {
+  background-color: var(--cor-de-fundo1);
+}
+
+.footer {
+  padding-top: 2rem;
+  font-family: "Raleway";
+  padding-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: 1rem;
+}
